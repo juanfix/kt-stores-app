@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_image_photo">Store Image</string>
+    <string name="description_store_add">Create store</string>
+    <string name="hint_name">Store name</string>
+    <string name="helper_required">Required</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_website">URL website</string>
+    <string name="hint_photo_url">Image URL</string>
+    <string name="edit_store_title_add">Create store</string>
+    <string name="menu_save">Save</string>
+    <string name="arg_id">key_id</string>
+    <string name="edit_store_message_update_success">Store updated</string>
+    <string name="edit_store_message_valid">Check required fields</string>
+    <string name="edit_store_title_edit">Edit store</string>
+    <string name="dialog_delete_title">" Are you sure to delete this store? "</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="dialog_delete_cancel">Cancel</string>
+    <string name="dialog_options_title">What do you do?</string>
+    <string name="main_error_no_website">This store doesn\'t have a website</string>
+    <string name="main_error_no_resolve">" No compatible app found"</string>
+</resources>
