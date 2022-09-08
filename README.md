@@ -1,5 +1,5 @@
 # kt-stores-app
-App desarrollada en Kotlin, CRUD de tiendas que se listan, posibilitando marcarlas como favoritas.
+App desarrollada en Kotlin, CRUD de tiendas que se listan, posibilitando marcarlas como favoritas. SQLite como base de datos.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/14180890/189011661-c18442c4-51c4-436c-b969-595e05738bf9.png" width="350" title="hover text">
